@@ -1,4 +1,1 @@
-#hello world!!
-#python
-this is a project for api course
-
+[![Build Status](https://dev.azure.com/muradturshani/AgileProject/_apis/build/status%2Fturshanii.test-repository?branchName=master)](https://dev.azure.com/muradturshani/AgileProject/_build/latest?definitionId=51&branchName=master)
